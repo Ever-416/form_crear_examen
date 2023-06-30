@@ -1,0 +1,7 @@
+#table-vista-general p {
+    max-width: 400px; /* ancho definido */
+    white-space: nowrap; /* impedir salto de línea */
+    overflow: hidden; /* ocultar texto desbordante */
+    text-overflow: ellipsis; /* añadir puntos suspensivos */
+    margin: 0;
+  }
